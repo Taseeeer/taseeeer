@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Caremerge**
 
-- 🌱 I’m currently learning **NestJs**
+- 🌱 I’m currently learning **Next**
 
 - 👨‍💻 My portfolio blog [syedtaseershah.netlify.com](syedtaseershah.com)
 
