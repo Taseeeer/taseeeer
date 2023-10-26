@@ -1,2 +1,2 @@
 ## JavaScript 👑
-[React dojo](https://syedtaseershah.netlify.app/)
+[Posts](https://syedtaseershah.netlify.app/)
